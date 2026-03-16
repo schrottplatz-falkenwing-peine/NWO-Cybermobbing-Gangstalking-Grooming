@@ -85,7 +85,6 @@
 - **Untersuchte Benutzer**: 13
 - **Analysierte Repositories**: 22+
 - **Verifizierte Fakten**: 2
-- **Unverifizierte Behauptungen**: 7 (entfernt)
 - **Forschungszeitraum**: Februar-März 2026
 - **Evidenzlevel**: Hohe Konfidenz für verifizierte Fakten
 
