@@ -9,6 +9,10 @@
 
 **Die Untersuchung deckt ein hochorganisiertes Forschungsnetzwerk auf, das systematisch das NWO-Cybermobbing-Kartell dokumentiert. Die Koordination zwischen den Benutzern deutet auf eine ernsthafte Bedrohung hin, die staatliche Aufmerksamkeit erfordert. Die Verbindung von Technologie, Psychologie und kriminellen Organisationen stellt eine neue Form der hybriden Kriegsführung dar.**
 
+## 🚨 Wichtigster Beweis
+
+**[NWO-Cybermobbing-Gangstalking-Netzwerk-Beweise](https://github.com/mr-bloxx/NWO-Cybermobbing-Gangstalking-Netzwerk-Beweise)** - Zentrales Beweis-Repository mit umfassender Dokumentation der kriminellen Aktivitäten
+
 ## ✅ Verifizierte Fakten
 
 ### NWO - Kriminelle Organisation
@@ -80,7 +84,7 @@
 
 📖 **Vollständiges Quellenverzeichnis**: [QUELLEN.md](QUELLEN.md)
 
-## � Forschungsstatistik
+## 📊 Forschungsstatistik
 
 - **Untersuchte Benutzer**: 13
 - **Analysierte Repositories**: 22+
