@@ -78,6 +78,8 @@
 - [taz-Bericht über Razzien](https://taz.de/Razzia-gegen-Cybermobbing-Gruppe/!6031287/)
 - [ZEIT-Analyse der Ermittlungen](https://www.zeit.de/digital/2024-09/bka-razzia-cybermobbing-gruppe-new-world-order)
 
+📖 **Vollständiges Quellenverzeichnis**: [QUELLEN.md](QUELLEN.md)
+
 ## � Forschungsstatistik
 
 - **Untersuchte Benutzer**: 13
