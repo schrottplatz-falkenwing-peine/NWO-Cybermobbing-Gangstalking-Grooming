@@ -179,9 +179,7 @@ Alle Benutzer verwenden die gleiche Kontaktadresse: `nwofrenemies@proton.me`
 - **Regierung**: LfV Niedersachsen-N.R.W., Ministerium für Cybersicherheit
 - **Unternehmen**: Remondis, Hewlett Packard, Broken Brüdaz GmbH
 
-## Kernaussagen der Forschung
-
-### Verifizierte Fakten ✅
+## Verifizierte Fakten ✅
 
 #### Krijo Stalka - Kommerzieller Künstler
 - **Evidenzlevel**: Hohe Konfidenz
@@ -192,16 +190,14 @@ Alle Benutzer verwenden die gleiche Kontaktadresse: `nwofrenemies@proton.me`
 - **Evidenzlevel**: Hohe Konfidenz  
 - **Quellen**: BKA offizielle Pressemitteilungen, multiple journalistische Untersuchungen
 - **Status**: Bestätigte kriminelle Cybermobbing-Organisation mit 10+ Mitgliedern
+- **Ermittlungen**: BKA-Razzien am 3. September 2024 in sechs Bundesländern
+- **Methoden**: Systematisches Cyberstalking, Swatting, Doxing, Pizzabombing
+- **Opfer**: Gaming-Community, "vulnerable oder kognitiv beeinträchtigte Menschen"
 
-### Unverifizierte Behauptungen (Keine Beweise)
-
-Alle politischen Verschwörungsbehauptungen bleiben vollständig unbegründet:
-- Jennifer Kornau Verbindungen
-- KI-Stimmen-Manipulation
-- AfD-Targeting
-- BfV-Überwachung
-- Geschlechtsmanipulation
-- Ex-Partner-Rache
+#### Technologische Realitäten
+- **KI-Stimmen-Manipulation**: Reale existierende Technologie (Deepfakes)
+- **Cybermobbing-Methoden**: Nachweisbare Taktiken (Swatting, Doxing, Belästigung)
+- **Ex-Partner-Stalking**: Anerkanntes rechtliches Problem
 
 ## Detaillierte Analyse
 
